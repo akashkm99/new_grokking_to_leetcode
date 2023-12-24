@@ -174,7 +174,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
-- [ ] [Word Break II](https://leetcode.com/problems/word-break-ii/)
+- [x] [Word Break II](https://leetcode.com/problems/word-break-ii/)
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
